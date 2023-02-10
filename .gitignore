@@ -405,3 +405,27 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/go,vim,osx,emacs,linux,python,windows,solidity,intellij,virtualenv
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
+
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
